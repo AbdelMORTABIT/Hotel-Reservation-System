@@ -4,11 +4,7 @@ import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
 // Room Types
-enum RoomType {
-    STANDARD,
-    JUNIOR,
-    SUITE,
-}
+enum RoomType {STANDARD, JUNIOR, SUITE,}
 
 // Room entity
 class Room {
